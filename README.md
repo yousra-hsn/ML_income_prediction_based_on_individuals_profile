@@ -24,7 +24,7 @@ Plus de détails disponibles dans le rapport **Report.pdf**.
 ## Contribution
 
 Projet académique réalisé dans le cadre de l'UV AI28 à l'Université de Technologie de Compiègne. **Juin 2024**
-s
+
 3 membres : 
 - **Jana Rafei**
 - **Haiyang Ma**
