@@ -1,4 +1,4 @@
-# MACHINE LEARNING - PEUT-ON PREDIRE SI LES REVENUS D’UN INDIVIDU EXCEDENT 50K DOLLARS PAR AN ETANT DONNE SON PROFIL?
+# MACHINE LEARNING - Peut-on prédire si les revenus d'un individu excèdent 50K € par an étant donné son profil? 
 
 ## Projet : Prédiction des revenus d'un individu
 
