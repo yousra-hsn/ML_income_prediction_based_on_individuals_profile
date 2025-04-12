@@ -6,7 +6,7 @@ L’objectif du projet de cette UV AI28 - Machine Learning, enseignéee à l’U
 
 ## Objectifs
 
-Ce projet de prédiction est destiné à analyser et interpréter le profil d’une multitude d’individus.L’objectif est de mettre en évidence les facteurs permettant de prédire si les revenus d’un individu sont supérieurs à 50K/an. Pour ce faire, nous entreprendrons dans un premier temps une analyse exploratoire des données (EDA) pour pouvoir les comprendre et avoir une idée globale de l’échantillon étudié. Nous utiliserons notamment différentes solutions de visualisations. Nous continuerons en présentant les différentes méthodes de traitement de données réalisées qui nous donnent accès à l’information utile en se débarrassant du bruit. Finalement, en tirant parti des algorithmes d’apprentissage automatique (ML), nous construirons des modèles prédictifs de classification binaire permettant d’estimer les revenus d’un individu en fonction de son profil.
+Ce projet de prédiction est destiné à analyser et interpréter le profil d’une multitude d’individus. L’objectif est de mettre en évidence les facteurs permettant de prédire si les revenus d’un individu sont supérieurs à 50K/an. Pour ce faire, nous entreprendrons dans un premier temps une analyse exploratoire des données (EDA) pour pouvoir les comprendre et avoir une idée globale de l’échantillon étudié. Nous utiliserons notamment différentes solutions de visualisations. Nous continuerons en présentant les différentes méthodes de traitement de données réalisées qui nous donnent accès à l’information utile en se débarrassant du bruit. Finalement, en tirant parti des algorithmes d’apprentissage automatique (ML), nous construirons des modèles prédictifs de classification binaire permettant d’estimer les revenus d’un individu en fonction de son profil.
 
 ## Structure
 
@@ -23,7 +23,7 @@ Plus de détails disponibles dans le rapport **Report.pdf**.
 
 ## Contribution
 
-Projet académique réalisé dans le cadre de l'UV **AI28**. Juin 2024
+Projet académique réalisé dans le cadre de l'UV **AI28** à l'Université de Technologie de Compiègne. Juin 2024
 
 3 membres : 
 - **Jana Rafei**
